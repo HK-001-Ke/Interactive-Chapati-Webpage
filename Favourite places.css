@@ -1,0 +1,22 @@
+#Main-Heading {font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font: size 20rem;
+color: rgb(216, 184, 144);
+background-color: rgb(62, 59, 59);}
+body {background-color: rgb(105, 105, 105);}
+.content { color: rgb(216, 184, 144);}
+.Main-Links { color: aliceblue;}
+body {color: rgb(216, 184, 144);}
+#Chapati-Heading {background-color: rgb(61, 54, 54);}
+#Madondo-Header {background-color: rgb(69, 69, 69);}
+#Madondo-lower {background-color: rgb(218, 171, 112)}
+#Madondo-lower {color: rgb(61, 54, 54);}
+#Madondo-subH { background-color: rgb(62, 59, 59);}
+#Chapati-Sub {background-color: rgb(226, 176, 115);}
+#Chapati-Sub {color: rgb(61, 54, 54);}
+.Yap{font-weight: 900;
+font-size: 20px;
+line-height: 1.6;
+font-style: italic;
+color: aliceblue;}
+.List{font-size: 20px;}
+#Orodha{color: aliceblue;}
